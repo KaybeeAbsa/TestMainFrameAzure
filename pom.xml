@@ -7,6 +7,16 @@
   <name>Archetype - Test</name>
   <url>http://maven.apache.org</url>
 
+  <properties>
+    <jdk.version>1.8</jdk.version>
+    <maven.compiler.source>8</maven.compiler.source>
+    <maven.compiler.target>8</maven.compiler.target>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <java.version>8</java.version>
+    <maven.compiler.source>${java.version}</maven.compiler.source>
+    <maven.compiler.target>${java.version}</maven.compiler.target>
+  </properties>
+
   <dependencies>
     <dependency>
       <groupId>org.apache.poi</groupId>
