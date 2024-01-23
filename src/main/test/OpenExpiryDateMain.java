@@ -19,7 +19,7 @@ public class OpenExpiryDateMain {
             //Looping through the Excel Sheet
 
                     //Passing Jagacy Properties and Opening
-                    System.setProperty("sessionA.window", "true");
+                   // System.setProperty("sessionA.window", "true");
                     debitOrderJagacy  = new CreditCardOpenExpiryJagacy();
                     debitOrderJagacy.open();
 
