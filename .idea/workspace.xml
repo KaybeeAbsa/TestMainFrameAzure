@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9af70f0-ef6a-478f-bfc9-140f5287a207" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Jagacy3270.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OpenExpiryDateMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/OpenExpiryDateMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +35,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/abks580/IdeaProjects/Test/src/main/java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -57,7 +57,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.&lt;default&gt;">
+  <component name="RunManager" selected="TestNG.OpenExpiryDateMain">
     <configuration name="All in Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <option name="PACKAGE_NAME" value="" />
@@ -72,6 +72,17 @@
       <option name="MAIN_CLASS_NAME" value="OpenExpiryDateMain" />
       <option name="METHOD_NAME" value="mainDebitOrder" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenExpiryDateMain" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OpenExpiryDateMain" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,10 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.OpenExpiryDateMain" />
+        <item itemvalue="TestNG.OpenExpiryDateMain.mainDebitOrder" />
         <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="JUnit.All in Test" />
         <item itemvalue="JUnit.OpenExpiryDateMain.mainDebitOrder" />
-        <item itemvalue="TestNG.OpenExpiryDateMain.mainDebitOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705978174040</updated>
-      <workItem from="1705978177374" duration="12465000" />
+      <workItem from="1705978177374" duration="13122000" />
     </task>
     <task id="LOCAL-00001" summary="pom">
       <created>1705993712271</created>
@@ -166,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706001521240</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="pom">
+      <created>1706002671027</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706002671027</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,5 +205,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test$OpenExpiryDateMain_mainDebitOrder.ic" NAME="OpenExpiryDateMain.mainDebitOrder Coverage Results" MODIFIED="1706002813644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
