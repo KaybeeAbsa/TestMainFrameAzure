@@ -144,12 +144,7 @@
       <artifactId>tess4j</artifactId>
       <version>5.7.0</version>
     </dependency>
-    <dependency>
-      <groupId>org.testng</groupId>
-      <artifactId>testng</artifactId>
-      <version>7.5</version>
-      <scope>test</scope>
-    </dependency>
+
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-chrome-driver</artifactId>
@@ -160,12 +155,7 @@
       <artifactId>java-client</artifactId>
       <version>8.3.0</version>
     </dependency>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.13</version>
-      <scope>compile</scope>
-    </dependency>
+
     <dependency>
       <groupId>com.vdurmont</groupId>
       <artifactId>emoji-java</artifactId>
