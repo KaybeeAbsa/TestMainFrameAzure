@@ -3,7 +3,7 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class OpenExpiryDateMain {
+public class OpenExpiryDateTest {
 
 
     private String message;
