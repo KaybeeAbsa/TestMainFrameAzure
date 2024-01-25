@@ -1,3 +1,5 @@
+package code;
+
 import com.jagacy.Key;
 import com.jagacy.Session3270;
 import com.jagacy.util.JagacyException;

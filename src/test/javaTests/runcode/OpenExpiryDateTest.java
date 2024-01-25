@@ -1,10 +1,13 @@
+package javaTests.runcode;
+
+import code.CreditCardOpenExpiryJagacy;
 import com.jagacy.util.JagacyException;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
+
 
 import java.io.IOException;
 
 public class OpenExpiryDateTest {
-
 
     private String message;
     private boolean userLoggedIn = false;
